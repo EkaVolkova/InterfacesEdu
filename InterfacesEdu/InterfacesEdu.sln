@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.33927.289
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfacesEdu", "InterfacesEdu\InterfacesEdu.csproj", "{166E7073-958A-4D64-8A18-C8D37B01F220}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfacesEdu", "InterfacesEdu\InterfacesEdu.csproj", "{166E7073-958A-4D64-8A18-C8D37B01F220}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExplicitInterface", "ExplicitInterface\ExplicitInterface.csproj", "{FCD4DC4A-6D0A-437D-8C1B-89B93EB5AD2D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExplicitInterface", "ExplicitInterface\ExplicitInterface.csproj", "{FCD4DC4A-6D0A-437D-8C1B-89B93EB5AD2D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplicitInterface", "ImplicitInterface\ImplicitInterface.csproj", "{EA61C858-CB61-4E75-9845-9B600533DDB4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImplicitInterface", "ImplicitInterface\ImplicitInterface.csproj", "{EA61C858-CB61-4E75-9845-9B600533DDB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplyInterfaces1", "MultiplyInterfaces1\MultiplyInterfaces1.csproj", "{5A5228C7-C3A3-4E68-94FF-985E7BF07773}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{EA61C858-CB61-4E75-9845-9B600533DDB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA61C858-CB61-4E75-9845-9B600533DDB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA61C858-CB61-4E75-9845-9B600533DDB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A5228C7-C3A3-4E68-94FF-985E7BF07773}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A5228C7-C3A3-4E68-94FF-985E7BF07773}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A5228C7-C3A3-4E68-94FF-985E7BF07773}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A5228C7-C3A3-4E68-94FF-985E7BF07773}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
